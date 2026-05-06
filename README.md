@@ -1,4 +1,4 @@
-# Car_Price_Prediction
+# Car-Price-Prediction
 ##  Project Overview
 
 This project focuses on predicting the selling price of Ford cars using Machine Learning techniques.  
